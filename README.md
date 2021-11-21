@@ -1,2 +1,2 @@
-# challenge-02
-Challenge #2 on NEARvember: https://nearvember.near.org/challenge-2-hello-world
+# challenge-03
+Challenge #3 on NEARvember: https://nearvember.near.org/challenge-3-hello-world-frontend
